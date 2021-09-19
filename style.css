@@ -1,0 +1,34 @@
+h1, p{
+    text-align: center;
+    color: whitesmoke;
+}
+.scores{
+    margin-left: 500px;
+    font-size: 5rem;
+}
+img{
+    height: 100px;
+    margin-left: 525px;
+}
+
+.selector{
+    margin-left: 525px;
+}
+#bt1{
+    color: whitesmoke;
+    background-color: royalblue;
+}
+#bt2{
+    color: whitesmoke;
+    background-color: purple;
+}
+#bt3{
+    color: black;
+    background-color: white;
+}
+.btns{
+    margin-left: 500px;
+}
+body{
+    background-color: rgba(136, 14, 30, 0.774);
+}
